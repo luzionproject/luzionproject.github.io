@@ -11,11 +11,11 @@
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #3a7a5591;
+    background: linear-gradient(to bottom, #1098ad, #6fba82);
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #448f63bb;
+    background: linear-gradient(to bottom, #1098ad, #6fba82);
 }
 
 ::-webkit-scrollbar-corner {
